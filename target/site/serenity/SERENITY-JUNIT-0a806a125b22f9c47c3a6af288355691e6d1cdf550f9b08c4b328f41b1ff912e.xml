@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name=": Create user service" skipped="0" tests="1" time="0.71" timestamp="2022-09-08 08:31:00"><testcase name=": Successful creation of a user in petStore"><error type="java.lang.ExceptionInInitializerError"/><system-err>null&#13;
+cucumber.deps.com.thoughtworks.xstream.XStream.setupConverters(XStream.java:820)&#13;
+cucumber.deps.com.thoughtworks.xstream.XStream.&lt;init&gt;(XStream.java:574)&#13;
+cucumber.deps.com.thoughtworks.xstream.XStream.&lt;init&gt;(XStream.java:530)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69)&#13;
+worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74)&#13;
+✽.A user send the request to create a new user in the endpoint "https://petstore.swagger.io/v2/user"(src/test/resources/features/createUser.feature:6)&#13;
+</system-err></testcase></testsuite>
